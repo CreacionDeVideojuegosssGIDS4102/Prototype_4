@@ -5,7 +5,7 @@ using UnityEngine;
 
 /*
 Nombre: Mario Alberto Rangel Márquez
-Descripción: Prototype 2
+Descripción: Prototype 4
 Fecha: 02/11/2024
 */
 public class MovementController : MonoBehaviour
